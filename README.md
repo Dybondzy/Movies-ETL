@@ -9,8 +9,13 @@ What You're Creating
 This new assignment consists of four technical analysis deliverables. You will submit the following:
 
 Deliverable 1: Write an ETL Function to Read Three Data Files
+https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb
+
 Deliverable 2: Extract and Transform the Wikipedia Data
+
 Deliverable 3: Extract and Transform the Kaggle data
+https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb
+
 Deliverable 4: Create the Movie Database
 
 Deliverable 1: Write an ETL Function to Read Three Data Files (25 points)
@@ -170,6 +175,8 @@ Upload the following to your Movies-ETL GitHub repository:
 The ETL_function_test.ipynb file
 The ETL_clean_wiki_movies.ipynb file
 The ETL_clean_kaggle_data.ipynb file
+https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb
+
 The ETL_create_database.ipynb file
 The Resources folder with the wikipedia.movies.json, movies_metadata.csv, ratings.csv, movies_query.png, and ratings_query.png files
 A README.md that describes the purpose of the repository. Although there is no graded written analysis for this Challenge, it is encouraged and good practice to add a brief description of your project.
