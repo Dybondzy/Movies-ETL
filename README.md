@@ -12,6 +12,7 @@ Deliverable 1: Write an ETL Function to Read Three Data Files
 https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb
 
 Deliverable 2: Extract and Transform the Wikipedia Data
+https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb
 
 Deliverable 3: Extract and Transform the Kaggle data
 https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb
@@ -174,6 +175,8 @@ Upload the following to your Movies-ETL GitHub repository:
 
 The ETL_function_test.ipynb file
 The ETL_clean_wiki_movies.ipynb file
+https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb
+
 The ETL_clean_kaggle_data.ipynb file
 https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb
 
