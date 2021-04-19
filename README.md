@@ -188,5 +188,8 @@ https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_create_database.ipynb
 
 The Resources folder with the wikipedia.movies.json, movies_metadata.csv, ratings.csv, movies_query.png, and ratings_query.png files
 A README.md that describes the purpose of the repository. Although there is no graded written analysis for this Challenge, it is encouraged and good practice to add a brief description of your project.
+The following files were too big for GitHub, so couldn't upload
+wikipedia.movies.json, movies_metadata.csv, ratings.csv
+
 To submit your Challenge assignment in Canvas, click Submit, then provide the URL of your Movies-ETL GitHub repository for grading.
 
