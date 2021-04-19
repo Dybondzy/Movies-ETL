@@ -18,7 +18,7 @@ Deliverable 3: Extract and Transform the Kaggle data
 https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb
 
 Deliverable 4: Create the Movie Database
-https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_function_test.ipynb
+https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_create_database.ipynb
 
 Deliverable 1: Write an ETL Function to Read Three Data Files (25 points)
 Deliverable 1 Instructions
@@ -184,7 +184,7 @@ The ETL_clean_kaggle_data.ipynb file
 https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb
 
 The ETL_create_database.ipynb file
-https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_function_test.ipynb
+https://github.com/Dybondzy/Movies-ETL/blob/main/ETL_create_database.ipynb
 
 The Resources folder with the wikipedia.movies.json, movies_metadata.csv, ratings.csv, movies_query.png, and ratings_query.png files
 A README.md that describes the purpose of the repository. Although there is no graded written analysis for this Challenge, it is encouraged and good practice to add a brief description of your project.
